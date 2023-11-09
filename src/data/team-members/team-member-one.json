@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "image": "/assets/img/team/team-1.jpg",
+    "fbLink": "https://www.facebook.com/profile.php?id=100006242313661",
+    "twitterLink": "//www.twitter.com",
+    "instagramLink": "//www.instagram.com",
+    "name": "Vũ Quốc Hùng",
+    "position": "Team Member"
+  },
+  {
+    "id": "2",
+    "image": "/assets/img/team/team-3.jpg",
+    "fbLink": "https://www.facebook.com/khai.thien.1422",
+    "twitterLink": "//www.twitter.com",
+    "instagramLink": "//www.instagram.com",
+    "name": "Võ Đặng Thiện Khải",
+    "position": "Team Member"
+  },
+  {
+    "id": "3",
+    "image": "/assets/img/team/team-2.jpg",
+    "fbLink": "https://www.facebook.com/mattron.linh.5",
+    "twitterLink": "//www.twitter.com",
+    "instagramLink": "//www.instagram.com",
+    "name": "Nguyễn Duy Linh",
+    "position": "Team Member"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "MacBook Pro 16-inch",
+    "subtitle": "Winter Offer 2022 Collection",
+    "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/mbp16-spacegray-select-202110_GEO_IT?wid=1808&hei=1686&fmt=png-alpha&.v=1633657645000",
+    "url": "/MacBook-Pro-2021-16-inch-MK183SAA/638c4bb6eea3b2350c489a88/p"
+  },
+  {
+    "id": 2,
+    "title": "ASUS ROG Strix SCAR 17",
+    "subtitle": "Summer Offer 2022 Collection",
+    "image": "https://dlcdnwebimgs.asus.com/files/media/AE815CAE-C3DB-431B-975B-603E59127735/v2/images/large/1x/3__performance_laptop.png",
+    "url": "/Laptop-ASUS-ROG-Strix-SCAR-17-G533ZM-LN013W/63a01ea6d7fb55f883a69233/p"
+  },
+  {
+    "id": 3,
+    "title": "MSI Crosshair 15",
+    "subtitle": "Summer Offer 2022 Collection",
+    "image": "https://product.hstatic.net/1000233206/product/msi-titan-gt77-12uhs-204vn-_i9-12900hx_e066ef5549bc4797a64556fc5d2f1ccc.png",
+    "url": "/Laptop-MSI-Crosshair-15-B12UEZ/63a01f69d7fb55f883a69886/p"
+  },
+  {
+    "id": 4,
+    "title": "Acer Predator Triton 500 SE",
+    "subtitle": "Summer Offer 2022 Collection",
+    "image": "https://product.hstatic.net/1000233206/product/acer-predator-triton-500-se-pt516-52s-91xh-i9-12900h_0d99e789f1914c57bddd258bd255600c_master.png",
+    "url": "/Laptop-ACER-Predator-Triton-500-SE-PT516-52s-75E3/63a020d2d7fb55f883a6ad27/p"
+  },
+  {
+    "id": 5,
+    "title": "ASUS Zenbook 17 Fold OLED",
+    "subtitle": "Summer Offer 2022 Collection",
+    "image": "https://product.hstatic.net/1000233206/product/asus-zenbook-17-fold-oled-ux9702aa-md014w-i7-1250u-1_711ebdf5a1384506bb20d85eb8f36e82_master.png",
+    "url": "/shop-grid-standard"
+  }
+]

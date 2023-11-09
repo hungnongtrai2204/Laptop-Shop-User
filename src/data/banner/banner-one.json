@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "https://product.hstatic.net/1000233206/product/asus-rog-zephyrus-duo-16-gx650rx-lo023w-r9-6980hx-2_7f735110df9a4caf9458495c50e51b92_master.png",
+    "title": "ASUS",
+    "subtitle": "Starting at",
+    "price": "$99.00",
+    "link": "/ASUS-qe-MT5NRm?cid=6374ea5e0e2cc2bffd88ff6b&type=store"
+  },
+  {
+    "id": 2,
+    "image": "https://lh3.googleusercontent.com/-TmV_aErj4whc2jyHtuJlCp4LdYB445skZC_kHuLlBA-3_q-M5C5a6knZ90b3bspnHa113USFk-MPE4UgpOVsVk2VEjodPOG=w1000-rw",
+    "title": "ACER",
+    "subtitle": "Starting at",
+    "price": "$79.00",
+    "link": "/Acer-LHWWda5Iu?cid=6374ea510e2cc2bffd88ff69&type=store"
+  },
+  {
+    "id": 3,
+    "image": "https://lh3.googleusercontent.com/iGR1GArMklbRhC1x8Hk51bVi2Lh3Db-xKxjEzCnUFRXKTaJjW2CeavrwNndf-W8QqnCN-FAye2Dph9GlGn74VcpiJ_5P2D42Aw=w1000-rw",
+    "title": "MSI",
+    "subtitle": "Starting at",
+    "price": "$29.00",
+    "link": "/MSI-moo4v_8yS?cid=6374ea8c0e2cc2bffd88ff75&type=store"
+  }
+]
