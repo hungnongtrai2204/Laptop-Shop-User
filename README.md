@@ -1,3 +1,5 @@
+# Laptop Shop Admin Dashboard
+Link github: https://github.com/hungnongtrai2204/Laptop-Shop-Admin
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
